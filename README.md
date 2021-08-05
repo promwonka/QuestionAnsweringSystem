@@ -1,2 +1,1 @@
-# QuestionAnsweringSystem
-Question Answering (QA) Systems can help you save more than 30% on customer support operations by incorporating them into your business process. Question Answering (QA) Systems are capable of responding quickly to routine questions. According to IBM, by 2020, 85 percent of consumer contacts will be handled without human intervention. Question Answering (QA) Systems provide a win-win situation by lowering costs while increasing customer satisfaction.
+
